@@ -1,0 +1,69 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "u6dCjYgRXnozXvE6X-_ax"
+uri = "file://exports/stuffed-dog-digital-site.zip"
+type = "unspecified"
+title = "Stuffed Dog Digital — static site build"
+description = "Production build: index.html, compiled CSS/JS, and all image assets. Unzip and host anywhere."
+logical_id = "09e5cbfc-9237-4506-a9a6-23abe825fc6c"
+
+[[outputs]]
+id = "p74EzFxbYvhOIvkZD9nVd"
+uri = "file://exports/sdd-elementor-home.json"
+type = "unspecified"
+title = "Elementor template — SDD Home"
+description = "Importable Elementor page template: hero, scroll-lit story, scroll film + red handoff (animations embedded in HTML widgets), plus static sections for the rest."
+logical_id = "962202c8-f9cf-449b-a860-e4c700c23779"
+
+[[outputs]]
+id = "sYtldzAYAl0prkMuxDgPJ"
+uri = "file://exports/sdd-scroll-film.html"
+type = "text"
+title = "Scroll film — standalone code"
+description = "Self-contained HTML/CSS/JS snippet: the 135-frame scroll-scrubbed canvas sequence with the red 'Refreshingly human.' handoff. Paste into an Elementor HTML widget or any page."
+logical_id = "c59c840d-bb1c-4a41-82ee-22c8df9522b2"
+content_type = "text/html"
+
+[[outputs]]
+id = "gwq8XJnKHFklNsKsYOtk9"
+uri = "file://exports/stuffed-dog-digital-elementor/stuffed-dog-digital-homepage.html"
+type = "text"
+title = "Stuffed Dog Digital HTML with Motion"
+description = "Responsive homepage HTML with scroll reveals and the 135-frame canvas sequence. Keep it with the frames folder from the ZIP."
+logical_id = "a16e1798-8053-447c-a6c6-e71d9b44b004"
+content_hash = "sha256:fb064a76e6a5bda5f3e794ec5c854a1b01dc4435be21007f94cd0ed52ab555fc"
+size = 1974067
+mtime_ms = 1788490188800
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:953cdb94-381a-4dc3-b5c8-69efea4cff5e/a16e1798-8053-447c-a6c6-e71d9b44b004/6c05cf61-b0aa-4038-866e-a2b2a671393c"
+storage_version_token = "1788490215638472"
+content_type = "text/html"
+
+[[outputs]]
+id = "09cqqJDk2AanjCSREiljP"
+uri = "file://exports/stuffed-dog-digital-elementor/stuffed-dog-digital-elementor.json"
+type = "unspecified"
+title = "Stuffed Dog Digital Elementor Template with Motion"
+description = "Elementor 0.4 template with 10 containers, vanilla JavaScript animations, and the scroll-film runtime."
+logical_id = "9e2c8ea7-981c-4a24-989b-926a25ffccb0"
+content_hash = "sha256:873133b92acc35ffe72f4d3e4ed0b9763ca94349e451b3c8153aad7731cd9a1b"
+size = 1980496
+mtime_ms = 1788490188812
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:953cdb94-381a-4dc3-b5c8-69efea4cff5e/9e2c8ea7-981c-4a24-989b-926a25ffccb0/2e1a5ad2-74c8-443c-bcd2-feca8705caac"
+storage_version_token = "1788490216478642"
+content_type = "application/octet-stream"
+
+[[outputs]]
+id = "1wzFEFAOHl5JcFmTRFIGY"
+uri = "file://exports/stuffed-dog-digital-elementor/stuffed-dog-digital-elementor-package.zip"
+type = "unspecified"
+title = "Stuffed Dog Digital Elementor Motion Package"
+description = "Complete 14 MB package with HTML, Elementor JSON, instructions, and all 135 WebP sequence frames."
+logical_id = "f5daa140-eb25-423b-bec8-23dc4524c9b2"
+content_hash = "sha256:e983f7fa99b94398beb1e680309e93f3135e4e11e73b64db92fca3d1425249ac"
+size = 14058439
+mtime_ms = 1788490189408
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:953cdb94-381a-4dc3-b5c8-69efea4cff5e/f5daa140-eb25-423b-bec8-23dc4524c9b2/411de8ff-5ea6-4234-9f0a-cb617aa9a6ac"
+storage_version_token = "1788490217663440"
+content_type = "application/octet-stream"

@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Stuffed Dog Digital"
+description = "A bold, scroll-driven marketing website for Stuffed Dog Digital — an independent creative and digital agency. Features a mascot smashing a watermelon as a scroll-triggered animation metaphor for breaking through generic, soulless marketing. Sections include hero, watermelon impact sequence, positioning, portfolio/case studies, services organized as four outcomes, agency story, manifesto, and final CTA."
+version = "1.0.0"
+id = "artifacts/stuffed-dog-digital"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24503
+
+[services.development]
+run = "pnpm --filter @workspace/stuffed-dog-digital run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/stuffed-dog-digital", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/stuffed-dog-digital/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24503"
+BASE_PATH = "/"

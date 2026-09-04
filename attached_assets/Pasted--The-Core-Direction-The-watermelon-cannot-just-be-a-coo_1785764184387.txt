@@ -1,0 +1,404 @@
+# The Core Direction
+
+The watermelon cannot just be a cool animation. It needs to represent what Stuffed Dog Digital does:
+
+**We break through the polished, predictable, lifeless marketing that makes every brand look the same.**
+
+The mascot is not smashing a watermelon because it looks fun. He is smashing:
+
+* Safe ideas
+* Empty buzzwords
+* Disposable content
+* Agency sameness
+* Marketing without humanity
+
+The current site has the right emotional foundation, but it relies heavily on familiar agency language such as “build belief,” “built with heart,” and “create something that matters.” It also repeats several ideas and separates your portfolio from the strategic story behind the work. ([Stuffed Dog Digital Marketing][1])
+
+The new site should be sharper, more confident, more surprising and more unmistakably Stuffed Dog.
+
+# The Big Creative Idea
+
+## Human Ideas Hit Harder.
+
+That is the organizing concept.
+
+It connects:
+
+* The watermelon impact
+* Your anti-generic-AI position
+* Your belief in empathy
+* Your ability to help smaller organizations compete
+* Your emotionally driven creative work
+* Your commercial growth capabilities
+
+**Vive La Humanity** becomes your rallying cry, not necessarily the homepage headline.
+
+A strong hierarchy would be:
+
+> **Human Ideas Hit Harder.**
+> Strategy, creativity and digital work built by people who give a shit.
+> **Vive La Humanity.**
+
+This is more distinctive than leading with “We build brands,” while still leaving room to explain branding, websites, campaigns, content and growth.
+
+---
+
+# Homepage Experience
+
+## 1. Opening Screen
+
+Keep the opening restrained.
+
+Large type. Almost no visual clutter. The mascot is standing beside the intact watermelon.
+
+HUMAN IDEAS
+HIT HARDER.
+
+We build brands, sharpen stories and create the momentum good organizations need to compete with anyone.
+
+Scroll to make an impact.
+
+The watermelon should feel almost absurdly pristine: centered, beautifully lit and waiting to be destroyed.
+
+As the user begins scrolling, short statements appear around it:
+
+> Too polished.
+> Too predictable.
+> Too forgettable.
+
+Then:
+
+> Let’s fix that.
+
+## 2. The Impact
+
+The mascot strikes the watermelon.
+
+The animation should happen over approximately 150 to 220 pixels of scroll progress rather than playing instantly. The user needs to feel like they caused it.
+
+The impact should create:
+
+* Rind fragments
+* Water droplets
+* Pulp and seeds
+* Camera shake
+* A restrained sound option
+* Pieces moving toward and past the camera
+* Individual fragments becoming transition masks
+
+At the exact moment of impact:
+
+> **BREAK THROUGH.**
+
+As the fragments settle:
+
+> **Because nobody remembers the work that played it safe.**
+
+Then the next section is revealed through the debris.
+
+## 3. Positioning Section
+
+WE HELP BRANDS
+PUNCH ABOVE THEIR WEIGHT.
+
+Stuffed Dog Digital is an independent creative and digital agency for organizations with something real at stake.
+
+We clarify what makes you matter, build the identity around it and turn that story into work that earns attention, builds trust and drives growth.
+
+We take it personally because, to us, it is.
+
+The phrase **“something real at stake”** is important. It speaks to your best clients: founders, athletic programs, family businesses, community organizations and ambitious teams.
+
+## 4. Work as Proof
+
+Do not introduce the portfolio with “Our Work” or “Work We’re Proud Of.”
+
+Use:
+
+> **This is what belief looks like in the wild.**
+
+Feature three major case studies first:
+
+1. **Outback Concrete Coatings**
+   Turning a local contractor into a premium regional brand.
+
+2. **The Brook**
+   Building belief before the doors even open.
+
+3. **University of St. Thomas Football**
+   Helping a rising Division I program look and compete like one.
+
+Your existing case-study material follows a clear challenge, solution and impact structure. Keep that discipline, but make the homepage presentation much more visual and concise. ([Stuffed Dog][2])
+
+Each featured project should include:
+
+* One dominant visual or video
+* One sentence describing the business problem
+* One sentence describing what SDD changed
+* A measurable result when defensible
+* A “See How We Did It” link
+
+Then show a faster, more chaotic reel of additional work.
+
+> **Different industries. Same standard.**
+
+## 5. What You Actually Do
+
+Avoid a grid containing seven or eight generic agency capabilities. Your current site lists everything from branding and web development to augmented reality, which communicates breadth but weakens the central proposition. ([Stuffed Dog Digital Marketing][3])
+
+Organize the agency around four outcomes:
+
+### FIND THE TRUTH
+
+Brand strategy, positioning, audience and messaging.
+
+### BUILD THE BELIEF
+
+Identity systems, campaigns, websites and content.
+
+### CREATE MOMENTUM
+
+Launch strategy, media, SEO and audience growth.
+
+### MAKE IT MATTER
+
+Long-term partnership, creative direction and continuous improvement.
+
+Supporting line:
+
+> We do not sell disconnected services. We build the system your brand needs to become clearer, stronger and harder to ignore.
+
+## 6. Why Stuffed Dog
+
+This is where the emotional story belongs.
+
+Do not tell the full origin story too early. Earn the emotional moment after users have seen the work and understand the value.
+
+WHY “STUFFED DOG?”
+
+Because some things matter more than they appear to.
+
+Our name is rooted in loyalty, comfort, resilience and the people we carry with us. It reminds us that the strongest work begins with understanding what something means to the people behind it.
+
+That is why we listen closely. Why we care deeply. Why we refuse to treat anyone’s story like another assignment moving through an agency.
+
+The work is business.
+
+The reason behind it is human.
+
+That final pair could become a major animated transition.
+
+## 7. Manifesto
+
+Your longer passage is strong but currently reads more like an internal philosophy than homepage copy. Condense it into a cinematic manifesto section.
+
+> We want to create work that outlives the campaign.
+>
+> Work that inspires pride.
+> Strengthens communities.
+> Creates opportunity.
+> And leaves something better behind.
+>
+> We will never measure success solely in revenue, awards or impressions.
+>
+> We measure it in the stories people remember, the organizations that grow and the impact that continues after our work is finished.
+>
+> We do not want to be the biggest agency.
+>
+> **We want to be the one you trust when the story matters most.**
+
+End with:
+
+> **VIVE LA HUMANITY.**
+
+This should be typography-led and slower than the watermelon sequence. Let the site become quiet here.
+
+## 8. Final CTA
+
+Avoid “Let’s Create Something That Matters.” It is sincere, but heavily used across the agency category.
+
+Use:
+
+> **GOT SOMETHING WORTH FIGHTING FOR?**
+
+Supporting copy:
+
+> Tell us what you are building, what is standing in the way and why it matters. We’ll take it from there.
+
+CTA:
+
+> **Make Your Mark**
+
+Secondary:
+
+> See More Work
+
+---
+
+# Color Palette
+
+The website should not become watermelon-themed. The watermelon colors should function as cinematic accents inside the animation.
+
+## Primary Brand System
+
+| Role         | Color           | Hex       |
+| ------------ | --------------- | --------- |
+| Ink          | Near Black      | `#111111` |
+| Canvas       | Warm Bone       | `#F2EFE7` |
+| Signal       | Electric Cobalt | `#445CFF` |
+| Humanity     | Warm Red        | `#FF4F55` |
+| Soft Neutral | Concrete        | `#B9B6AE` |
+
+## Animation Accents
+
+| Role             | Color     | Hex |
+| ---------------- | --------- | --- |
+| Watermelon Flesh | `#FF4162` |     |
+| Rind             | `#22B573` |     |
+| Dark Rind        | `#087B54` |     |
+| Seed             | `#171717` |     |
+
+### Recommended balance
+
+* 55% warm bone
+* 30% near black
+* 10% cobalt
+* 5% red or watermelon accents
+
+The cobalt gives SDD a contemporary digital presence. The warm bone and red keep it human. Black gives the work enough authority to avoid feeling like a whimsical mascot brand.
+
+Use the watermelon green almost exclusively within the watermelon sequence. That keeps the moment surprising.
+
+---
+
+# Typography
+
+## Best Overall Combination
+
+### Display: **Bricolage Grotesque**
+
+Use for:
+
+* Hero statements
+* Oversized section titles
+* Manifesto lines
+* Pull quotes
+* Animated words
+
+It has enough imperfection and personality to feel human without becoming childish.
+
+### Body and Interface: **Manrope**
+
+Use for:
+
+* Paragraphs
+* Navigation
+* Project metadata
+* Buttons
+* Forms
+* Case-study summaries
+
+It is clean, highly legible and slightly warmer than a typical geometric sans serif.
+
+## Alternative, More Aggressive Combination
+
+* **Archivo Black** for major headlines
+* **Archivo** for everything else
+
+This creates a tougher, more campaign-driven visual identity but gives you less emotional nuance.
+
+## Type Treatment
+
+Headlines should generally be:
+
+* Uppercase
+* Tightly tracked
+* Short
+* Oversized
+* Broken across intentional lines
+
+Body copy should remain sentence case and conversational. Avoid making every piece of language loud. The contrast between force and restraint is what will make the site feel sophisticated.
+
+---
+
+# Visual Language
+
+The design should combine three different worlds:
+
+### 1. Cinematic 3D
+
+The mascot, watermelon and occasional dimensional objects give the site spectacle.
+
+### 2. Editorial Typography
+
+Large, intelligent copy keeps it from becoming a character-animation portfolio.
+
+### 3. Human Imperfection
+
+Add subtle evidence of real hands and real thinking:
+
+* Pencil circles
+* Rough underlines
+* Margin notes
+* Cropped production stills
+* Storyboard frames
+* Handwritten client comments
+* Early sketches beside final work
+* Cursor annotations and proof marks
+
+Do not use generic grunge textures everywhere. The imperfection should feel like evidence of process, not a Photoshop overlay.
+
+# Interaction Direction
+
+The site should feel playful in moments, but never difficult to navigate.
+
+Use scroll animation primarily for:
+
+* Hero anticipation
+* Watermelon destruction
+* Fragment-to-portfolio transition
+* Manifesto pacing
+* Final mascot appearance
+
+Keep portfolio browsing, services and contact interactions conventional and fast.
+
+On mobile, use a shorter pre-rendered version of the impact sequence. Do not force a heavy real-time simulation onto every device. Respect reduced-motion settings and provide a static impact frame when motion is disabled.
+
+# Recommended Navigation
+
+Keep it simple:
+
+**Work · What We Do · About · Contact**
+
+Right side CTA:
+
+**Start Something**
+
+“Vive La Humanity” can sit above or beneath the logo as a small rotating brand signature rather than a permanent navigation item.
+
+# The Smartest Use of the Mascot
+
+The mascot should have a role, not merely appearances.
+
+He represents the agency’s instinct to protect good ideas and destroy bad ones.
+
+Across the site, he can:
+
+* Smash the watermelon
+* Pull a bland template off screen
+* Hold up a client result
+* Peek through a case-study transition
+* Drag the final CTA into view
+* Appear asleep beside the footer after the work is finished
+
+Use him sparingly after the hero. The audience should want more of him rather than becoming accustomed to him.
+
+# The Brand in One Sentence
+
+> **Stuffed Dog Digital is the independent agency for organizations that care deeply about what they are building and need the strategy, creative firepower and human understanding to make others care too.**
+
+That is the strategic foundation. The watermelon is the memorable delivery mechanism. **Human Ideas Hit Harder** is the campaign concept. **Vive La Humanity** is the philosophy behind it.
+
+[1]: https://stuffeddogdigital.com/?utm_source=chatgpt.com "Home - Stuffed Dog Digital Marketing"
+[2]: https://stuffeddog4zach.netlify.app/ "A Launch Plan for Zach Channing | Stuffed Dog Digital"
+[3]: https://stuffeddogdigital.com/work/?utm_source=chatgpt.com "work - Stuffed Dog Digital Marketing"

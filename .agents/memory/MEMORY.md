@@ -1,0 +1,3 @@
+- [SDD palette rules](sdd-palette.md) — green never for text emphasis (blue #0A6CFF instead); cyan is interaction-only; sticky pins break if any ancestor uses overflow-x:hidden — use clip.
+- [SDD results positioning](sdd-results-positioning.md) — sell creative as a measurable growth system; always explain how strategy, assets, distribution, and optimization produce results.
+- [SDD copy punctuation](sdd-copy-style.md) — never use em dashes anywhere in Stuffed Dog Digital site copy or metadata.
